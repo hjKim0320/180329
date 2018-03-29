@@ -1,0 +1,52 @@
+body {
+  width: auto;
+  height: 700px;
+  text-align: center;
+}
+
+table {
+  padding: 10px;
+}
+.header {
+  height: 100px;
+  color: white;
+  background: tomato;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 55px;
+  font-size: 50px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.menu {
+  height: 50px;
+  color: slategrey;
+  background:salmon;
+  border-radius: 10px;
+}
+
+li {
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  float: left;
+  position: relative;
+  list-style: none;
+}
+
+.contents {
+  height: 500px;
+  color: black;
+  background: white;
+  border-radius: 10px;
+}
+
+.footer{
+  height: 50px;
+  padding-right: 20px;
+  text-align: right;
+  color: slategrey;
+  background: wheat;
+  border-radius: 10px;
+}
